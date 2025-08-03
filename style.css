@@ -1,10 +1,9 @@
-* {
+*{
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
 }
-
 /* MENU SUPERIOR */
 
 .container{
@@ -40,6 +39,9 @@ li{
     font-weight: 400;
     color: #373737;
 }
+
+/* MENU INFERIOR */
+
 
 .titulo-iphone{
     font-size: 30px;
@@ -106,7 +108,7 @@ li{
 }
 
 .roxo{
-    background-color: #9a63bf;
+    background-color: #EDE7F1;
 }
 
 .escolha-cor{
