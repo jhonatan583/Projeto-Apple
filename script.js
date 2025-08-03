@@ -3,6 +3,7 @@ function trocaCor(cor) {
     circulo.style.background = cor
 }
 
-function trocaImg(){
+function trocaImg(imagem){
   let imgIphone = document.querySelector(".iphone")
+  imgIphone.src =imagem
 }
